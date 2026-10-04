@@ -1,0 +1,12 @@
+# Dataset
+swiggy.csv
+
+# Alternative locations
+data/swiggy.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MySQL / local files
+*.sql.bak
